@@ -1,0 +1,3 @@
+[submodule "Hearthbuddy-extension"]
+	path = Hearthbuddy-extension
+	url = git@github.com:Hearthbuddy/Hearthbuddy-extension.git
