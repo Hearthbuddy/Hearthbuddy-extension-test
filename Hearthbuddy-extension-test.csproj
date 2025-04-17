@@ -56,7 +56,7 @@
     <ItemGroup>
         <Compile Include="Tests.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
-        <Compile Include="Hearthbuddy-extension\**\*.cs" Exclude="Hearthbuddy-extension\Routines\DefaultRoutine\Silverfish\cards\**\*"/>
+        <Compile Include="Hearthbuddy-extension\**\*.cs"/>
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
